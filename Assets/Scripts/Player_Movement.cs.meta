@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eec7a751d19d1584390de084c40ae6f0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - Jugador: {instanceID: 0}
+  - Stage: {instanceID: 0}
+  - velocidad: {instanceID: 0}
+  - TIEMPODEVIDA: {fileID: 1219803161755882707, guid: 83c5a5a8a4d944d41afb69c314df7250, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
